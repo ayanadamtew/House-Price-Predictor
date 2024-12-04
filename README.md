@@ -92,14 +92,3 @@ house-price-predictor/
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.  
 
 ---
-
-## License  
-
-This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.  
-
----
-
-## Acknowledgments  
-
-- Dataset inspiration: **[Source or your notes]**  
-- Libraries used: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `tkinter`.  
